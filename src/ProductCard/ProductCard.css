@@ -1,0 +1,10 @@
+.ProductCards {
+   border:  1px solid black;
+   width : 50%;
+   left : 50%;
+   right: 50%;
+   text-align: center;
+   transform: translate(50%,0%);
+
+
+}
